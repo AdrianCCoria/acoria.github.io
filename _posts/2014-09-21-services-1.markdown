@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: DeathtoStock_Wired1.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Coffee is good
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Changing Stuff!
